@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Intake Landing page</title>
+<title>Logger</title>
 </head>
 <body>
-<h3>Intake - Intake Landing page</h3>
+<h3>Intake - Logger page</h3>
 </body>
 </html>
