@@ -7,12 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3>All the Features of School Information Management System</h3>
-<ul>
-<li> Class Room Management</li>
-<li> Student Management</li>
-<li> Teachers Management</li>
-<li> Profile Management</li>
-</ul>
+<h3>Profile Card-This is Legal Page</h3>
 </body>
 </html>
