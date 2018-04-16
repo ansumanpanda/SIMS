@@ -8,3 +8,9 @@ function a(){
 	 * 
 	 */
 }
+function profileCard(){
+	/*
+	 * This is function a added in feature_profileCard branch
+	 * 
+	 */
+}
