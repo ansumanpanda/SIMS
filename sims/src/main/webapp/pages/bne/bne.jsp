@@ -4,15 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>BNE</title>
 </head>
 <body>
-<h3>All the Features of School Information Management System</h3>
-<ul>
-<li> Class Room Management</li>
-<li> Student Management</li>
-<li> Teachers Management</li>
-<li> Profile Management</li>
-</ul>
+<h3>BNE Page</h3>
 </body>
 </html>
